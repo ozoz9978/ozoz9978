@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋 MinGeun Jo
 
 <!--
 **ozoz9978/ozoz9978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👷 Check out what I'm currently working on
+
+
+### 🌱 My latest projects
+
+
+### 🔨 My recent Pull Requests
+
+
+### 🔭 Latest releases I've contributed to
+
+
+### ⭐ Recent Stars
+
