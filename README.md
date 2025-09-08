@@ -8,10 +8,11 @@
 **Pandas  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=pandas" alt="git repo" height="20">](https://github.com/ozoz9978/Pandas.git) Numpy**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=numpy" alt="git repo" height="20">](https://github.com/ozoz9978/Numpy.git)  
 **Plotly, Seaborn, Matplotlib**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=machinelearning" alt="git repo" height="20">](https://github.com/ozoz9978/Visualization.git)  
 **Scikit-learn**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=machinelearning" alt="git repo" height="20">](https://github.com/ozoz9978/MachineLearning.git)  
-**Tensorflow**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=deeplearning" alt="git repo" height="20">](https://github.com/ozoz9978/DeepLearning.git)  
+**Tensorflow**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=deeplearning" alt="git repo" height="20">](https://github.com/ozoz9978/DeepLearning.git)
+- **Data Base** MySQL
 - **Basic Statistics**    
 - **Dashboard Tool** : Lookerstudio, Powerbi  
-
+- **Backend** : JAVA, SpringBoot
 
 ### ⭐ history
 1. SCFI 지수를 이용한 쥬요 항로별 해상운임(Ocean Freight) 예측 모델 개발 [<img src="https://img.shields.io/badge/git%20repo-gray?logo=github" alt="git repo" height="20">](https://github.com/ozoz9978/KitaDigitalMasterProject1.git)
