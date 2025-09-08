@@ -5,8 +5,8 @@
 - **Programming Language** : Python [<img src="https://img.shields.io/badge/git%20repo-gray?logo=python" alt="git repo" height="20">](https://github.com/ozoz9978/Python.git)
 - **Development Tool** : JupyterLab, SpringToolSuite, VisualStudioCode
 - **Framework / Library** :
-**Pandas[<img src="https://img.shields.io/badge/git%20repo-gray?logo=pandas" alt="git repo" height="20">](https://github.com/ozoz9978/Pandas.git) Numpy**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=numpy" alt="git repo" height="20">](https://github.com/ozoz9978/Numpy.git)  
-**Plotly, Seaborn, Matplotlib**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=git repo" alt="git repo" height="20">](https://github.com/ozoz9978/Visualization.git)  
+**Pandas  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=pandas" alt="git repo" height="20">](https://github.com/ozoz9978/Pandas.git) Numpy**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=numpy" alt="git repo" height="20">](https://github.com/ozoz9978/Numpy.git)  
+**Plotly, Seaborn, Matplotlib**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=machinelearning" alt="git repo" height="20">](https://github.com/ozoz9978/Visualization.git)  
 **Scikit-learn**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=machinelearning" alt="git repo" height="20">](https://github.com/ozoz9978/MachineLearning.git)  
 **Tensorflow**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=deeplearning" alt="git repo" height="20">](https://github.com/ozoz9978/DeepLearning.git)  
 - **Basic Statistics**    
