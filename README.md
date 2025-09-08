@@ -5,12 +5,12 @@
 - **Programming Language** : Python 기본코드 작성 및 함수화 가능, 문제 발생시 공식 문서와 자료를 참고하여 해결
 - **Development Tool** : JupyterLab, SpringToolSuite, VisualStudioCode
 - **Framework / Library**
-**Pandas, Numpy** : 데이터 프레임 생성 및 조작, 데이터 필터링, 그룹화, 정렬 및 집계, 결측치 처리, 데이터 정제 & 전처리
-**Plotly, Seaborn, Matplotlib** : 
-**Scikit-learn** : 기계 학습 모델 생성, 훈련 및 평가, 하이퍼 파라미터 튜닝, 통계 모델링 및 가설검정
-**Tensorflow, Keras** : 딥러닝 모델, LSTM, GRU
-**Basic Statistics**
-**Dashboard Tool** : Lookerstudio, Powerbi
+**Pandas, Numpy** : 데이터 프레임 생성 및 조작, 데이터 필터링, 그룹화, 정렬 및 집계, 결측치 처리, 데이터 정제 & 전처리  
+**Plotly, Seaborn, Matplotlib** :   
+**Scikit-learn** : 기계 학습 모델 생성, 훈련 및 평가, 하이퍼 파라미터 튜닝, 통계 모델링 및 가설검정  
+**Tensorflow, Keras** : 딥러닝 모델, LSTM, GRU  
+**Basic Statistics**  
+**Dashboard Tool** : Lookerstudio, Powerbi  
 -**
 
 ### ⭐ history
