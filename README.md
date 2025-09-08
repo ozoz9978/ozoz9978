@@ -2,7 +2,7 @@
 * 그동안 학습한 내용 & 프로젝트 진행사항을 github에 정리합니다
 
 ### ⚡ 기술역량 : 
-- **Programming Language** : Python https://github.com/ozoz9978/Python.git [<img src="https://img.shields.io/badge/git%20repo-gray?logo=python" alt="git repo" height="20">](https://github.com/ozoz9978/Python.git)
+- **Programming Language** : Python [<img src="https://img.shields.io/badge/git%20repo-gray?logo=python" alt="git repo" height="20">](https://github.com/ozoz9978/Python.git)
 - **Development Tool** : JupyterLab, SpringToolSuite, VisualStudioCode
 - **Framework / Library** :
 **Pandas, Numpy**  
