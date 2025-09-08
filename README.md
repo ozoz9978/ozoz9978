@@ -3,16 +3,17 @@
 
 ### ⚡ 기술역량 : 
 - **Programming Language** : Python [<img src="https://img.shields.io/badge/git%20repo-gray?logo=python" alt="git repo" height="20">](https://github.com/ozoz9978/Python.git)
-- **Development Tool** : JupyterLab, SpringToolSuite, VisualStudioCode
+- **Development Tool** : JupyterLab, SpringToolSuite, ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 - **Framework / Library** :
 **Pandas  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=pandas" alt="git repo" height="20">](https://github.com/ozoz9978/Pandas.git) Numpy**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=numpy" alt="git repo" height="20">](https://github.com/ozoz9978/Numpy.git)  
 **Plotly, Seaborn, Matplotlib**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=machinelearning" alt="git repo" height="20">](https://github.com/ozoz9978/Visualization.git)  
 **Scikit-learn**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=machinelearning" alt="git repo" height="20">](https://github.com/ozoz9978/MachineLearning.git)  
-**Tensorflow**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=deeplearning" alt="git repo" height="20">](https://github.com/ozoz9978/DeepLearning.git)
-- **Data Base** MySQL
+**![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)**  [<img src="https://img.shields.io/badge/git%20repo-gray?logo=deeplearning" alt="git repo" height="20">](https://github.com/ozoz9978/DeepLearning.git)
+- **Data Base** ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - **Basic Statistics**    
-- **Dashboard Tool** : Lookerstudio, ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-- **Backend** : Java, SpringBoot
+- **Dashboard Tool** : ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white), ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+- **Backend** : ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### ⭐ history
 1. SCFI 지수를 이용한 쥬요 항로별 해상운임(Ocean Freight) 예측 모델 개발 [<img src="https://img.shields.io/badge/git%20repo-gray?logo=github" alt="git repo" height="20">](https://github.com/ozoz9978/KitaDigitalMasterProject1.git)
