@@ -5,13 +5,13 @@
 - **Programming Language** : Python 
 - **Development Tool** : JupyterLab, SpringToolSuite, VisualStudioCode
 - **Framework / Library**
-**Pandas, Numpy** 
+**Pandas, Numpy**  
 **Plotly, Seaborn, Matplotlib**  
-**Scikit-learn** 
-**Tensorflow, Keras** 
-**Basic Statistics**  
+**Scikit-learn**    
+**Tensorflow, Keras**   
+**Basic Statistics**    
 **Dashboard Tool** : Lookerstudio, Powerbi  
--**
+
 
 ### ⭐ history
 1. SCFI 지수를 이용한 쥬요 항로별 해상운임(Ocean Freight) 예측 모델 개발 [<img src="https://img.shields.io/badge/git%20repo-gray?logo=github" alt="git repo" height="20">](https://github.com/ozoz9978/KitaDigitalMasterProject1.git)
