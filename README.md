@@ -14,11 +14,11 @@
 #### Visualization 
 - ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-39A7D2?style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) [<img src="https://img.shields.io/badge/git%20repo-gray?logo=machinelearning" alt="git repo" height="20">](https://github.com/ozoz9978/Visualization.git)  
 #### 🗃 Data Base
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 #### 📊 Dashboard Tool
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-#### 🧩 Backend ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+#### 🧩 Backend 
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### ⭐ Project History
 1. SCFI 지수를 이용한 쥬요 항로별 해상운임(Ocean Freight) 예측 모델 개발 [<img src="https://img.shields.io/badge/git%20repo-gray?logo=github" alt="git repo" height="20">](https://github.com/ozoz9978/KitaDigitalMasterProject1.git)
