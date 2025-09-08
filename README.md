@@ -4,13 +4,13 @@
 ### ⚡ 기술역량 : 
 - **Programming Language** : Python 
 - **Development Tool** : JupyterLab, SpringToolSuite, VisualStudioCode
-- **Framework / Library**
+- **Framework / Library** :
 **Pandas, Numpy**  
 **Plotly, Seaborn, Matplotlib**  
 **Scikit-learn**    
 **Tensorflow, Keras**   
-**Basic Statistics**    
-**Dashboard Tool** : Lookerstudio, Powerbi  
+- **Basic Statistics**    
+- **Dashboard Tool** : Lookerstudio, Powerbi  
 
 
 ### ⭐ history
