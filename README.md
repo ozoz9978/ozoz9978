@@ -8,7 +8,7 @@
 **Pandas, Numpy**  
 **Plotly, Seaborn, Matplotlib**  
 **Scikit-learn**    
-**Tensorflow, Keras**   
+**Tensorflow**   
 - **Basic Statistics**    
 - **Dashboard Tool** : Lookerstudio, Powerbi  
 
