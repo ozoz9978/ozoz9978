@@ -24,5 +24,6 @@
 1. SCFI 지수를 이용한 쥬요 항로별 해상운임(Ocean Freight) 예측 모델 개발 [<img src="https://img.shields.io/badge/git%20repo-gray?logo=github" alt="git repo" height="20">](https://github.com/ozoz9978/KitaDigitalMasterProject1.git)
 
 2. 항로별 해상운임 예측모델을 활용한 종합 물류 서비스 '청해지니' 개발 [<img src="https://img.shields.io/badge/git%20repo-gray?logo=github" alt="git repo" height="20">](https://github.com/ozoz9978/firepunch.git)
-3. 텍스트 마이닝 기반 제약회사 마케팅 전략 제안 (LDA 토픽모델링, CONCOR분석, 2-mode matrix 활용) 📄 [전략 제안 보고서 PDF 보기](https://github.com/user-attachments/files/22200118/_.pdf)
+3. 텍스트 마이닝 기반 제약회사 마케팅 전략 제안 (LDA 토픽모델링, CONCOR분석, 2-mode matrix 활용) 📄 [전략 제안 보고서 PDF 보기](https://github.com/user-attachments/files/22583372/_.1.pdf)
+
 
